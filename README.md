@@ -78,7 +78,6 @@ Feito com 💙 por Thales
 
 ## 🖥️ ASCII Art do Menu
 
-Adicione isso no início da função `menu_principal()` para um toque visual:
 
 ```python
 print(r"""
