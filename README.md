@@ -11,11 +11,12 @@
 
 ## 📖 Sobre o Projeto
 
-O **Sistema de Gerenciamento Escolar** é uma aplicação em **Python** para terminal que permite o cadastro de alunos, disciplinas, lançamento de notas e geração de boletins escolares de forma prática, responsiva e 100% offline.  
+O **Sistema de Gerenciamento Escolar** é uma aplicação **em Python** para terminal que permite o cadastro de alunos, disciplinas, lançamento de notas e geração de boletins escolares de forma simples e intuitiva.
 
 Ideal para estudos e prática de **Programação Orientada a Objetos (POO)**, esse projeto conta com uma estrutura organizada e funcionalidades completas para controle acadêmico básico.
 
 ---
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -50,6 +51,12 @@ Ideal para estudos e prática de **Programação Orientada a Objetos (POO)**, es
 
 ---
 
+## 📚 Contexto
+
+Este projeto foi desenvolvido como parte de uma **atividade prática** no **segundo ano / segundo semestre** do curso técnico de **Informática**, na disciplina de **Programação em Python** com foco em **POO**.
+
+---
+
 ## 🚀 Como Executar
 
 1️⃣ Certifique-se de ter o **Python 3.10 ou superior** instalado.
@@ -58,3 +65,27 @@ Ideal para estudos e prática de **Programação Orientada a Objetos (POO)**, es
 
 ```bash
 git clone https://github.com/SEU_USUARIO/sistema-escolar-python.git
+
+## 🎨 Autor
+
+Feito com 💙 por Thales
+
+📱 Instagram: [@thales_timbo](https://www.instagram.com/thales_timbo/)
+
+---
+
+## 🖥️ ASCII Art do Menu
+
+Adicione isso no início da função `menu_principal()` para um toque visual:
+
+```python
+print(r"""
+   ____  _                 _                     _              
+  / ___|| | ___  _   _  __| | ___ _ __ ___   __ _| |_ ___  _ __  
+  \___ \| |/ _ \| | | |/ _` |/ _ \ '_ ` _ \ / _` | __/ _ \| '__| 
+   ___) | | (_) | |_| | (_| |  __/ | | | | | (_| | || (_) | |    
+  |____/|_|\___/ \__,_|\__,_|\___|_| |_| |_|\__,_|\__\___/|_|    
+                                                                  
+""")
+```
+
