@@ -63,7 +63,7 @@ Este projeto foi desenvolvido como parte de uma **atividade prática** no **segu
 
 2️⃣ Clone ou baixe este repositório:
 
-```bash
+
 git clone https://github.com/SEU_USUARIO/sistema-escolar-python.git
 
 ## 🎨 Autor
@@ -73,6 +73,8 @@ Feito com 💙 por Thales
 📱 Instagram: [@thales_timbo](https://www.instagram.com/thales_timbo/)
 
 ---
+
+```bash
 
 ## 🖥️ ASCII Art do Menu
 
