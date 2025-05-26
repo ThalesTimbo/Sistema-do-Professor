@@ -74,10 +74,9 @@ Feito com 💙 por Thales
 
 ---
 
+
+
 ```bash
-
-## 🖥️ ASCII Art do Menu
-
 
 ```python
 print(r"""
